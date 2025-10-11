@@ -1,0 +1,4 @@
+fileName,fileType,filemode,date
+data,csv,readwrite,10Aug
+data1,xlsx,write,08Aug
+data2,txt,read,09Aug

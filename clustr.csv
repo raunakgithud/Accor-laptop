@@ -1,0 +1,4 @@
+cluster,hostname,address,pakage
+DB-HOST,RWS-THW,172.45.354.01,Apache2
+DB-HOST,REW-TGH,172.45.354.02,NGINX
+DB-HOST,RTY-UYT,172.45.354.03,Apache-tomcat
