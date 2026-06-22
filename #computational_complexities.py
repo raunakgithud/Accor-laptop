@@ -237,11 +237,7 @@ def two_sum(n,arr,target):
         sum = arr[left] + arr[right]
         result = []
         if sum == target:
-            result.append(left)
-            result.append(right)
-            for i in range(len(result)):
-                print(i,end=" ")
-                break
+            return left,right
         elif sum > target:
             right -= 1
         else:
